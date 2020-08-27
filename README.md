@@ -14,6 +14,7 @@ Just a list of stuff I like about my implementation:
 
 Stuff I don't like:
 
+- No castling and when a pawn reaches the opponent's first line, the game just crashes 🤷🏻‍♂️.
 - Nothing happens when is check-mate until your king is dead.
 - The typography is cool but somehow I made it look cheap and "8-bitty"
 - No sound since my Ubuntu audio software is broken somehow.
