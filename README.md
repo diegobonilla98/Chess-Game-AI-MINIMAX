@@ -22,7 +22,7 @@ Stuff I don't like:
 
 
 
-UPDATE: Turns out my minimax if pretty broken so I've modified an existing library for Python that (for some reason) also had a bunch of errors and was pretty unusable.
+UPDATE: Turns out my minimax algorithm is pretty broken so I've modified an existing library for Python that (for some reason) also had a bunch of errors and was pretty unusable.
 
 
 
